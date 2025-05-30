@@ -1,0 +1,10 @@
+export const TITLE = 'User Profile';
+export const USER_NAME = 'Alex Jeromini';
+export const USER_EMAIL = 'alex.jeromini@gmail.com';
+export const SETTINGS = 'Settings';
+export const MANAGE_PROFILE = 'Manage Profile';
+export const LOGOUT = 'Logout';
+export const WORKSPACES = 'Workspaces';
+export const WORKSPACE_NAME = 'GL Great Lakes Management';
+export const WORKSPACE_INITIALS = 'GL';
+export const ADD_WORKSPACE = '+ Add new workspace';
