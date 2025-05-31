@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/old-route",
-      "destination": "https://litmustest-ai-frontend.vercel.app/new-route",
+      "destination": "/new-route",
       "permanent": true
     },
     {
@@ -14,7 +14,7 @@
   "rewrites": [
     {
       "source": "/app/:path*",
-      "destination": "https://litmustest-ai-frontend.vercel.app/index.html"
+      "destination": "/index.html"
     }
   ]
 }
